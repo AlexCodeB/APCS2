@@ -1,0 +1,18 @@
+1522010164665	Extract method 'gameMove'
+1522010911142	Extract method 'printBoard'
+1522018275955	Rename type 'MinesweeperController'
+1522018298956	Rename type 'MinesweeperModel'
+1522018317340	Rename type 'MSModelInterface'
+1522122266134	Rename type 'P6_Bruckhaus_Alexander_MinsweeperModel'
+1522124520523	Delete element
+1522129803849	Delete elements
+1522210289022	Delete element
+1522220352153	Rename type 'BooleanGridPane'
+1522222954920	Extract local variable 'gif'
+1522222987472	Extract method 'getImageViewForGif'
+1522223004649	Inline local variable 'gif'
+1522223937028	Rename method 'getImageForChar'
+1522299986709	Rename field 'mineGrid'
+1522300141990	Rename type 'GridPane'
+1522304302817	Extract method 'updateGameStatus'
+1522305009210	Rename method 'getNumRemainingMines'

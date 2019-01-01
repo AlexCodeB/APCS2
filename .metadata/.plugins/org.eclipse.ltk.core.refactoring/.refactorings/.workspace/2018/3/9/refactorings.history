@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename Java project &apos;MallEscape(GOOD)&apos; to &apos;MallEscape_GOOD&apos;&#x0A;- Original element: &apos;MallEscape(GOOD)&apos;&#x0A;- Renamed element: &apos;MallEscape(GOOD)&apos;&#x0A;- Update references to refactored element" description="Rename Java project &apos;MallEscape(GOOD)&apos;" flags="7" id="org.eclipse.jdt.ui.rename.java.project" input="=MallEscape\(GOOD)" name="MallEscape_GOOD" references="true" stamp="1519886298669" version="1.0"/>
+</session>

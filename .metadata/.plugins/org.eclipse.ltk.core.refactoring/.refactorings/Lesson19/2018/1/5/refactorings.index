@@ -1,0 +1,8 @@
+1517102967518	Move file
+1517289762060	Extract method 'prepareWord'
+1517290392390	Extract method 'ignoreString'
+1517290412165	Rename method 'ignoreString'
+1517291078716	Extract constant 'DELIMITERS'
+1517291150469	Extract constant 'TRIM_CHARS'
+1517291399139	Extract constant 'IGNORED'
+1517291453165	Inline method 'ignore'
